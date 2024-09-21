@@ -1,0 +1,11 @@
+h1, form {
+    text-align: center;
+}
+
+body {
+    background-color: blueviolet;
+    color: black;
+}
+form {
+    font-size: 19px;
+}
